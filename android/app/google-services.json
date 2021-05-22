@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "310609756017",
+    "project_id": "yatravel-682df",
+    "storage_bucket": "yatravel-682df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310609756017:android:6420e7017dcd6347ce40d0",
+        "android_client_info": {
+          "package_name": "com.example.yatravel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310609756017-1pfj0k07r3aqmpsoj7p08oke4m5neo5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC33kBrKmGerujqmluL7qW1LMlhh2uQfJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310609756017-1pfj0k07r3aqmpsoj7p08oke4m5neo5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
